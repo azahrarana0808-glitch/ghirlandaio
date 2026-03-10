@@ -67,7 +67,7 @@ Kemudian, pada masa kebangkitan, konflik berakar pada perdebatan validitas keben
 bergantung pada akal sehat namun tidak cocok untuk menangani permasalahan nilai dan makna. Ketika sains mampu menghadapi problem praktis seperti menentukan bentuk bumi, membangun sebuah jembatan, atau mampu mengobati orang sakit, Sains mampu mengatasi nya dengan cara ditelaah lebih jauh dengan akal sehat melalui tindakan langsung tanpa melibatkan rasa atau subjektifitas semata, sementara ketika berhadapan dengan problem etis seperti perceraian, aborsi yang Mengedepankan makna sains tidak bisa jadi solusi.
 Jadi agama lah yg jadi solusi menyikapi hal tersebut.
 * Metodologis Agama
-Bersifat penuh makna, etika, prilaku dan ketuhanan  
+bersifat penuh makna, etika, prilaku dan ketuhanan  
 Seperti contohnya pendidikan fokus pada penananam kepatuhan, penghafalan kitab suci, dan pembelajaran tradisi-tradisi kuno.
 Bahwa yang dilakukan berkaitan dengan agama yang dianggap benar jadi diharuskan untuk patuh untuk hal tersebut, lalu harus dijaga baik - baik karena merupakan kemurnian yang harus dijaga yang telah lama ada.Gambaran kepatuhan terhadap tuhan sebagai bentuk keimanan.
 * Perbedaan dua metodologis tersebut
