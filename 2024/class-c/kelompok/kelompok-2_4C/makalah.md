@@ -99,11 +99,11 @@ Teknologi dianggap sebagai sesuatu yang sudah seharusnya ada dan tidak bisa di h
 
 2. Universalisasi
 
-Teknologi diklaim memberi manfaat yang sama bagi semua orang tanpa  memandang latar belakang sosial, ekonomi, atau budaya. Padahal akses dan dampak teknologi sangat tidak merata di masyarakat.
+Teknologi diklaim memberi manfaat yang sama bagi semua orang tanpa  memandang latar belakang sosial, ekonomi, atau budaya. Padahal akses dan dampak teknologi sangat tidak merata di masyarakat. contohnya: Sukses itu harus kaya dan mempunyai jabatan tinggi" seolah olah standar definisi sukses orang itu sama.
 
 3. Depolitisasi
 
-Teknologi diposisikan sebagai sesuatu yang netral dan bebas nilai, sehingga berbagai kepentingan dibalik pengenmbangan tidak terlihat.
+Proses menghilangkan konteks politik atau kekuasaan dari suatu isu, Sehingga terlihat netral dan tidak problematis. Contoh ketimpangan ekonomi di anggap sebagai "takdir" atau "nasib" padahal bisa jadi ada sistem atau kebijakan yang menyebabkannya. 
 
 
 Dalam kajian teori sosial kontemporer, teknologi tidak lagi dipahami semata sebagai alat yang netral dan fungsional. Menurut pemikiran Jean Baudrillard, teknologi dalam masyarakat modern dapat bertransformasi menjadi mitos, yaitu kontruksi makna yang dipercaya secara luas tanpa selalu melalui proses kritis. 
