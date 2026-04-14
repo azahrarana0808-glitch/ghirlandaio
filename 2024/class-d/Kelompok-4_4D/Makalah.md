@@ -55,6 +55,13 @@ Lima Hukum Ilmu Perpustakaan yang dirumuskan oleh S.R. Ranganathan pada tahun 19
 Ranganathan secara tidak langsung memberikan gambaran analogi mengenai landasan evolusi hukum tersebut yang dimana terbagi menjadi 3 fase yaitu, masa kanak-kanak, fokus utama adalah pada pertumbuhan fisik, menambah buku,rak, dan luas bangunan agar bisa menampung koleksi yang semakin banyak, lalu masa dewasa pertumbuhan tidak hanya soal ukuran fisik, melainkan soal kualitas hubungan dan partisipasi. Perpustakaan mulai menjadi " tanpa dinding " dan hadir di mana saja melalui perangkat digital.
 era manusia super (era AI/Society 5.0), perpustakaan kini memiliki "otak buatan". ia tidak hanya lagi hanya menyimpan pengetahuan, tetapi secara proaktif memahami kebutuhan penggunanya secara cerdas.
   ## 2.2 Jelaskan konsep cyrberethic and hubunganya dengan perpustakaan digital
+  Etika keamanan siber (atau cyberethics) adalah bidang studi yang menjadi dsar-dasar etika, hukum, dan teknis untuk menyelaraskan keamanan siber dengan nilaii-nilai dasar kemanusiaan dan hak asasi manusia. Konsep ini mengakui bahwa keamanan siber bukanlah tujuan akhir, melainkan nilai instrumental yang berfungsi sebagai sarana untuk melindungi nilai-nilai yang lebih mendasar, seperti privasi, kesehatan, dan kebebasan.
+
+  Empat pilar nilai utama menurut buku etika keamanan siber karya marcus christen etc. yang harus diseimbangkan dalam praktik keamanan siber: 
+  1. Keamanan (Security): Perlindunan terhadap manusia dan sistem dari bahaya atau ancaman.
+  2. Privasi (Privacy): Hak individu untuk mengontrol informasi mereka dan pelindungan terhadap akses yang tidak sah.
+  3. Keadilan (Fairness): Menjamin kesetaraaan akses, non-diskriminasi, dan pencegahan bias dalam algoritma keamanan.
+  4. Akuntabilitas (Accountabillity): Transparansi dan tanggung jawab pengambil keputusan (seperti pemerintah dan perusahaan) atas langkah-langkah keamanan yang mereka terapkan.
   ## 2.3 Jelaskan prinsip dasar keamanan cyber bagi perpustakaan digital dan lembaga arsip digital
   Dalam lingkungan kontemporer (terbaru), perpustakaan dan lembaga arsip diklasifikasikan sebagai lembaga epistemik, yang menandakah bahwa tujuan utama mereka untuk memperoleh, menjaga, dan menyebarluaskan pengetahuan secara jujur dan ketidakberpihakan (objektif). Sebagai penjaga kebenerana informasi, lembaga ini harus menerapkan prinsip prinsip keamanan siber yang tidak hanya bersifat teknis, tetapi juga etis.
 
