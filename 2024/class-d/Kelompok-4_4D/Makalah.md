@@ -50,4 +50,6 @@ Segala puji bagi Allah SWT yang telah memberikan kami kemudahan sehingga kami da
 
 7. # BAB II PEMBAHASAN
    ## 2.1 Bagaimana evolusi 5 hukum perpustakaan?
-   
+Lima Hukum Ilmu Perpustakaan yang dirumuskan oleh S.R. Ranganathan pada tahun 1928 dan dipublikasikan pada tahun 1931 merupakan landasan filosofis paling berpengaruh dalam dunia perpustakaan. Meskipun telah berusia hampir satu abad, hukum-hukum ini tidak bersifat statis, melainkan terus mengalami transformasi melalui interpretasi ulang oleh para ahli untuk tetap relevan dengan perubahan zaman. Evolusi ini didorong oleh hukum kelima, yang menyatakan bahwa perpustaaan adalah organisme yang berkembang, sebuah kalimat yang menunjukkan bahwa perpustakaan harus mampu beradaptasi dengan lingkungan digital dan teknologi baru agar tidak punah dari "seleksi alam".
+Ranganathan secara tidak langusng memberikan gambaran analogi mengenai landasan evolusi hukum tersebut yang dimana terbagi menjadi 3 fase yaitu, masa kanak-kanak, fokus utama adalah pada pertumbuhan fisik, menambah buku,rak, dan luas bangunan agar bisa menampung koleksi yang semakin banyak, lalu masa dewasa pertumbuhan tidak hanya soal ukuran fisik, melainkan soal kualitas hubungan dan partisipasi. Perpustakaan mulai menjadi " tanpa dinding " dan hadir di mana saja melalui perangkat digital.
+era manusia super (era AI/Society 5.0), perpustakaan kini memiliki "otak buatan". ia tidak hanya lagi hanya menyimpan pengetahuan, tetapi secara proaktif memahami kebutuhan penggunanya secara cerdas.
